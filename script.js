@@ -22,7 +22,7 @@ const account1 = {
   locale: 'de-DE', // de-DE
 };
 const account2 = {
-  owner: 'Ibrahim Aini',
+  owner: 'Baba Ali',
   movements: [500, 3400, -150, 790, -3210, -1000, 8500, -30],
   interestRate: 1.5, // %
   pin: 2222,
